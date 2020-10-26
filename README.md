@@ -1,3 +1,4 @@
+## Try the app : https://gallant-lumiere-56b55d.netlify.app/
 # Getting Started with Random Quote Generator App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
